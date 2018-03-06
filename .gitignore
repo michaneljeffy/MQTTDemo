@@ -1,0 +1,5 @@
+packages/
+MQTT.Client/bin
+MQTT.Client/obj
+MQTT.Server/bin
+MQTT.Server/obj
